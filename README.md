@@ -1,0 +1,4 @@
+# Promotional-Material
+A repository of Cannacoin promotional images and pdf's
+
+PULL REQUESTS CONTAINING USER CONTRIBUTED IMAGES, PDF's OR PROMOTIONAL MATIERAL FOR CANNACOIN ARE ENCOURAGED
